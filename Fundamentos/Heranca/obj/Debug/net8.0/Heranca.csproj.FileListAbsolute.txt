@@ -1,0 +1,14 @@
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Heranca\obj\Debug\net8.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Heranca\obj\Debug\net8.0\Heranca.AssemblyInfoInputs.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Heranca\obj\Debug\net8.0\Heranca.AssemblyInfo.cs
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Heranca\obj\Debug\net8.0\Heranca.csproj.CoreCompileInputs.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Heranca\bin\Debug\net8.0\Heranca.exe
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Heranca\bin\Debug\net8.0\Heranca.deps.json
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Heranca\bin\Debug\net8.0\Heranca.runtimeconfig.json
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Heranca\bin\Debug\net8.0\Heranca.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Heranca\bin\Debug\net8.0\Heranca.pdb
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Heranca\obj\Debug\net8.0\Heranca.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Heranca\obj\Debug\net8.0\refint\Heranca.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Heranca\obj\Debug\net8.0\Heranca.pdb
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Heranca\obj\Debug\net8.0\Heranca.genruntimeconfig.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Heranca\obj\Debug\net8.0\ref\Heranca.dll

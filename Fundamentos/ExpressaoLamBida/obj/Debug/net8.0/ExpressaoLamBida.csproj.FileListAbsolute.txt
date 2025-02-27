@@ -1,0 +1,14 @@
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExpressaoLamBida\bin\Debug\net8.0\ExpressaoLamBida.exe
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExpressaoLamBida\bin\Debug\net8.0\ExpressaoLamBida.deps.json
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExpressaoLamBida\bin\Debug\net8.0\ExpressaoLamBida.runtimeconfig.json
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExpressaoLamBida\bin\Debug\net8.0\ExpressaoLamBida.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExpressaoLamBida\bin\Debug\net8.0\ExpressaoLamBida.pdb
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExpressaoLamBida\obj\Debug\net8.0\ExpressaoLamBida.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExpressaoLamBida\obj\Debug\net8.0\ExpressaoLamBida.AssemblyInfoInputs.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExpressaoLamBida\obj\Debug\net8.0\ExpressaoLamBida.AssemblyInfo.cs
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExpressaoLamBida\obj\Debug\net8.0\ExpressaoLamBida.csproj.CoreCompileInputs.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExpressaoLamBida\obj\Debug\net8.0\ExpressaoLamBida.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExpressaoLamBida\obj\Debug\net8.0\refint\ExpressaoLamBida.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExpressaoLamBida\obj\Debug\net8.0\ExpressaoLamBida.pdb
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExpressaoLamBida\obj\Debug\net8.0\ExpressaoLamBida.genruntimeconfig.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExpressaoLamBida\obj\Debug\net8.0\ref\ExpressaoLamBida.dll

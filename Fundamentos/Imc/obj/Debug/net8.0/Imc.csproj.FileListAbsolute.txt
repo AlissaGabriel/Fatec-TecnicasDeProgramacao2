@@ -1,0 +1,14 @@
+C:\Users\0201392411027\Desktop\Fundamentos\Imc\bin\Debug\net8.0\Imc.exe
+C:\Users\0201392411027\Desktop\Fundamentos\Imc\bin\Debug\net8.0\Imc.deps.json
+C:\Users\0201392411027\Desktop\Fundamentos\Imc\bin\Debug\net8.0\Imc.runtimeconfig.json
+C:\Users\0201392411027\Desktop\Fundamentos\Imc\bin\Debug\net8.0\Imc.dll
+C:\Users\0201392411027\Desktop\Fundamentos\Imc\bin\Debug\net8.0\Imc.pdb
+C:\Users\0201392411027\Desktop\Fundamentos\Imc\obj\Debug\net8.0\Imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392411027\Desktop\Fundamentos\Imc\obj\Debug\net8.0\Imc.AssemblyInfoInputs.cache
+C:\Users\0201392411027\Desktop\Fundamentos\Imc\obj\Debug\net8.0\Imc.AssemblyInfo.cs
+C:\Users\0201392411027\Desktop\Fundamentos\Imc\obj\Debug\net8.0\Imc.csproj.CoreCompileInputs.cache
+C:\Users\0201392411027\Desktop\Fundamentos\Imc\obj\Debug\net8.0\Imc.dll
+C:\Users\0201392411027\Desktop\Fundamentos\Imc\obj\Debug\net8.0\refint\Imc.dll
+C:\Users\0201392411027\Desktop\Fundamentos\Imc\obj\Debug\net8.0\Imc.pdb
+C:\Users\0201392411027\Desktop\Fundamentos\Imc\obj\Debug\net8.0\Imc.genruntimeconfig.cache
+C:\Users\0201392411027\Desktop\Fundamentos\Imc\obj\Debug\net8.0\ref\Imc.dll

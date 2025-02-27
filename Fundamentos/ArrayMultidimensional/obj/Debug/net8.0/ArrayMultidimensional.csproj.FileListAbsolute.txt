@@ -1,0 +1,14 @@
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayMultidimensional\bin\Debug\net8.0\ArrayMultidimensional.exe
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayMultidimensional\bin\Debug\net8.0\ArrayMultidimensional.deps.json
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayMultidimensional\bin\Debug\net8.0\ArrayMultidimensional.runtimeconfig.json
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayMultidimensional\bin\Debug\net8.0\ArrayMultidimensional.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayMultidimensional\bin\Debug\net8.0\ArrayMultidimensional.pdb
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayMultidimensional\obj\Debug\net8.0\ArrayMultidimensional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayMultidimensional\obj\Debug\net8.0\ArrayMultidimensional.AssemblyInfoInputs.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayMultidimensional\obj\Debug\net8.0\ArrayMultidimensional.AssemblyInfo.cs
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayMultidimensional\obj\Debug\net8.0\ArrayMultidimensional.csproj.CoreCompileInputs.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayMultidimensional\obj\Debug\net8.0\ArrayMultidimensional.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayMultidimensional\obj\Debug\net8.0\refint\ArrayMultidimensional.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayMultidimensional\obj\Debug\net8.0\ArrayMultidimensional.pdb
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayMultidimensional\obj\Debug\net8.0\ArrayMultidimensional.genruntimeconfig.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayMultidimensional\obj\Debug\net8.0\ref\ArrayMultidimensional.dll

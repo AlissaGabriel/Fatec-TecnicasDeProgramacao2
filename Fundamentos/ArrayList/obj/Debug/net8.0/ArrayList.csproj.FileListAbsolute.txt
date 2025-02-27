@@ -1,0 +1,14 @@
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayList\bin\Debug\net8.0\ArrayList.exe
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayList\bin\Debug\net8.0\ArrayList.deps.json
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayList\bin\Debug\net8.0\ArrayList.runtimeconfig.json
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayList\bin\Debug\net8.0\ArrayList.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayList\bin\Debug\net8.0\ArrayList.pdb
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayList\obj\Debug\net8.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfoInputs.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfo.cs
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayList\obj\Debug\net8.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayList\obj\Debug\net8.0\ArrayList.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayList\obj\Debug\net8.0\refint\ArrayList.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayList\obj\Debug\net8.0\ArrayList.pdb
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayList\obj\Debug\net8.0\ArrayList.genruntimeconfig.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ArrayList\obj\Debug\net8.0\ref\ArrayList.dll

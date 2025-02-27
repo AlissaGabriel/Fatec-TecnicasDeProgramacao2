@@ -1,0 +1,14 @@
+C:\Users\0201392411027\Desktop\Fundamentos\Classes\bin\Debug\net8.0\Classes.exe
+C:\Users\0201392411027\Desktop\Fundamentos\Classes\bin\Debug\net8.0\Classes.deps.json
+C:\Users\0201392411027\Desktop\Fundamentos\Classes\bin\Debug\net8.0\Classes.runtimeconfig.json
+C:\Users\0201392411027\Desktop\Fundamentos\Classes\bin\Debug\net8.0\Classes.dll
+C:\Users\0201392411027\Desktop\Fundamentos\Classes\bin\Debug\net8.0\Classes.pdb
+C:\Users\0201392411027\Desktop\Fundamentos\Classes\obj\Debug\net8.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392411027\Desktop\Fundamentos\Classes\obj\Debug\net8.0\Classes.AssemblyInfoInputs.cache
+C:\Users\0201392411027\Desktop\Fundamentos\Classes\obj\Debug\net8.0\Classes.AssemblyInfo.cs
+C:\Users\0201392411027\Desktop\Fundamentos\Classes\obj\Debug\net8.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\0201392411027\Desktop\Fundamentos\Classes\obj\Debug\net8.0\Classes.dll
+C:\Users\0201392411027\Desktop\Fundamentos\Classes\obj\Debug\net8.0\refint\Classes.dll
+C:\Users\0201392411027\Desktop\Fundamentos\Classes\obj\Debug\net8.0\Classes.pdb
+C:\Users\0201392411027\Desktop\Fundamentos\Classes\obj\Debug\net8.0\Classes.genruntimeconfig.cache
+C:\Users\0201392411027\Desktop\Fundamentos\Classes\obj\Debug\net8.0\ref\Classes.dll

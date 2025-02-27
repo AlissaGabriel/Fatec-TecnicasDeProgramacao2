@@ -1,0 +1,14 @@
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Array\bin\Debug\net8.0\Array.exe
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Array\bin\Debug\net8.0\Array.deps.json
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Array\bin\Debug\net8.0\Array.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Array\bin\Debug\net8.0\Array.pdb
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Array\obj\Debug\net8.0\Array.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Array\obj\Debug\net8.0\refint\Array.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Array\obj\Debug\net8.0\Array.pdb
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Array\obj\Debug\net8.0\ref\Array.dll
