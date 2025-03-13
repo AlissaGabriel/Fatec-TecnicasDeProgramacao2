@@ -1,0 +1,14 @@
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Coleção\bin\Debug\net8.0\Coleção.exe
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Coleção\bin\Debug\net8.0\Coleção.deps.json
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Coleção\bin\Debug\net8.0\Coleção.runtimeconfig.json
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Coleção\bin\Debug\net8.0\Coleção.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Coleção\bin\Debug\net8.0\Coleção.pdb
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Coleção\obj\Debug\net8.0\Coleção.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Coleção\obj\Debug\net8.0\Coleção.AssemblyInfoInputs.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Coleção\obj\Debug\net8.0\Coleção.AssemblyInfo.cs
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Coleção\obj\Debug\net8.0\Coleção.csproj.CoreCompileInputs.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Coleção\obj\Debug\net8.0\Coleção.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Coleção\obj\Debug\net8.0\refint\Coleção.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Coleção\obj\Debug\net8.0\Coleção.pdb
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Coleção\obj\Debug\net8.0\Coleção.genruntimeconfig.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\Coleção\obj\Debug\net8.0\ref\Coleção.dll

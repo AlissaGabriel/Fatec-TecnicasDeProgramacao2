@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Fatec\\3 Semestre\\Técnicas De Programação II\\Fundamentos\\Imc\\Imc.csproj",
+      "projectUniqueName": "D:\\Fatec\\3 Semestre\\Técnicas De Programação II\\Fundamentos\\Imc\\Imc.csproj",
       "projectName": "Imc",
-      "projectPath": "E:\\Fatec\\3 Semestre\\Técnicas De Programação II\\Fundamentos\\Imc\\Imc.csproj",
+      "projectPath": "D:\\Fatec\\3 Semestre\\Técnicas De Programação II\\Fundamentos\\Imc\\Imc.csproj",
       "packagesPath": "C:\\Users\\0201392411027\\.nuget\\packages\\",
-      "outputPath": "E:\\Fatec\\3 Semestre\\Técnicas De Programação II\\Fundamentos\\Imc\\obj\\",
+      "outputPath": "D:\\Fatec\\3 Semestre\\Técnicas De Programação II\\Fundamentos\\Imc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,8 +51,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -73,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

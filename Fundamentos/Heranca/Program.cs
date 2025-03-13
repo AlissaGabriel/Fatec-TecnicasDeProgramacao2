@@ -23,7 +23,7 @@ public class Gato : Animal
     public void SomGato()
     {
         Console.WriteLine("Miauuuu");
-    }
+    }   
 
     public string getNome()
     {
