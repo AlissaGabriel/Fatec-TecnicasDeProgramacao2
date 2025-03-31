@@ -1,0 +1,14 @@
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExceçãoPersonalizado\bin\Debug\net8.0\ExceçãoPersonalizado.exe
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExceçãoPersonalizado\bin\Debug\net8.0\ExceçãoPersonalizado.deps.json
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExceçãoPersonalizado\bin\Debug\net8.0\ExceçãoPersonalizado.runtimeconfig.json
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExceçãoPersonalizado\bin\Debug\net8.0\ExceçãoPersonalizado.dll
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExceçãoPersonalizado\bin\Debug\net8.0\ExceçãoPersonalizado.pdb
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExceçãoPersonalizado\obj\Debug\net8.0\ExceçãoPersonalizado.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExceçãoPersonalizado\obj\Debug\net8.0\ExceçãoPersonalizado.AssemblyInfoInputs.cache
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExceçãoPersonalizado\obj\Debug\net8.0\ExceçãoPersonalizado.AssemblyInfo.cs
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExceçãoPersonalizado\obj\Debug\net8.0\ExceçãoPersonalizado.csproj.CoreCompileInputs.cache
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExceçãoPersonalizado\obj\Debug\net8.0\ExceçãoPersonalizado.dll
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExceçãoPersonalizado\obj\Debug\net8.0\refint\ExceçãoPersonalizado.dll
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExceçãoPersonalizado\obj\Debug\net8.0\ExceçãoPersonalizado.pdb
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExceçãoPersonalizado\obj\Debug\net8.0\ExceçãoPersonalizado.genruntimeconfig.cache
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ExceçãoPersonalizado\obj\Debug\net8.0\ref\ExceçãoPersonalizado.dll

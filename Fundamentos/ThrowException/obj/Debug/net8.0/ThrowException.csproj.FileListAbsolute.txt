@@ -1,0 +1,14 @@
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ThrowException\bin\Debug\net8.0\ThrowException.exe
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ThrowException\bin\Debug\net8.0\ThrowException.deps.json
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ThrowException\bin\Debug\net8.0\ThrowException.runtimeconfig.json
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ThrowException\bin\Debug\net8.0\ThrowException.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ThrowException\bin\Debug\net8.0\ThrowException.pdb
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ThrowException\obj\Debug\net8.0\ThrowException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ThrowException\obj\Debug\net8.0\ThrowException.AssemblyInfoInputs.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ThrowException\obj\Debug\net8.0\ThrowException.AssemblyInfo.cs
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ThrowException\obj\Debug\net8.0\ThrowException.csproj.CoreCompileInputs.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ThrowException\obj\Debug\net8.0\ThrowException.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ThrowException\obj\Debug\net8.0\refint\ThrowException.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ThrowException\obj\Debug\net8.0\ThrowException.pdb
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ThrowException\obj\Debug\net8.0\ThrowException.genruntimeconfig.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\ThrowException\obj\Debug\net8.0\ref\ThrowException.dll

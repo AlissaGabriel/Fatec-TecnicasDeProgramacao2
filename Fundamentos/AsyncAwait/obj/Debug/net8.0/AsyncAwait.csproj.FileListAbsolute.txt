@@ -1,0 +1,14 @@
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\AsyncAwait\bin\Debug\net8.0\AsyncAwait.exe
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\AsyncAwait\bin\Debug\net8.0\AsyncAwait.deps.json
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\AsyncAwait\bin\Debug\net8.0\AsyncAwait.runtimeconfig.json
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\AsyncAwait\bin\Debug\net8.0\AsyncAwait.dll
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\AsyncAwait\bin\Debug\net8.0\AsyncAwait.pdb
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\AsyncAwait\obj\Debug\net8.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\AsyncAwait\obj\Debug\net8.0\AsyncAwait.AssemblyInfoInputs.cache
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\AsyncAwait\obj\Debug\net8.0\AsyncAwait.AssemblyInfo.cs
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\AsyncAwait\obj\Debug\net8.0\AsyncAwait.csproj.CoreCompileInputs.cache
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\AsyncAwait\obj\Debug\net8.0\AsyncAwait.dll
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\AsyncAwait\obj\Debug\net8.0\refint\AsyncAwait.dll
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\AsyncAwait\obj\Debug\net8.0\AsyncAwait.pdb
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\AsyncAwait\obj\Debug\net8.0\AsyncAwait.genruntimeconfig.cache
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\AsyncAwait\obj\Debug\net8.0\ref\AsyncAwait.dll

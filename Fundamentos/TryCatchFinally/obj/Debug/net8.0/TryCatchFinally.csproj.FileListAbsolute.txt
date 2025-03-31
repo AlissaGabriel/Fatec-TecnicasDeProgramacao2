@@ -1,0 +1,14 @@
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.exe
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.deps.json
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.runtimeconfig.json
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.dll
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.pdb
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.AssemblyInfoInputs.cache
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.AssemblyInfo.cs
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.csproj.CoreCompileInputs.cache
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.dll
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\TryCatchFinally\obj\Debug\net8.0\refint\TryCatchFinally.dll
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.pdb
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.genruntimeconfig.cache
+E:\Fatec\3 Semestre\Técnicas De Programação II\Fundamentos\TryCatchFinally\obj\Debug\net8.0\ref\TryCatchFinally.dll
