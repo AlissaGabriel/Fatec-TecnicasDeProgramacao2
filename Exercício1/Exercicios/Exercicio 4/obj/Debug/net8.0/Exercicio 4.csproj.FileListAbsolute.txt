@@ -1,0 +1,14 @@
+D:\Fatec\3 Semestre\Técnicas De Programação II\Pasta de Exercícios\Exercicios\Exercicio 4\bin\Debug\net8.0\Exercicio 4.exe
+D:\Fatec\3 Semestre\Técnicas De Programação II\Pasta de Exercícios\Exercicios\Exercicio 4\bin\Debug\net8.0\Exercicio 4.deps.json
+D:\Fatec\3 Semestre\Técnicas De Programação II\Pasta de Exercícios\Exercicios\Exercicio 4\bin\Debug\net8.0\Exercicio 4.runtimeconfig.json
+D:\Fatec\3 Semestre\Técnicas De Programação II\Pasta de Exercícios\Exercicios\Exercicio 4\bin\Debug\net8.0\Exercicio 4.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Pasta de Exercícios\Exercicios\Exercicio 4\bin\Debug\net8.0\Exercicio 4.pdb
+D:\Fatec\3 Semestre\Técnicas De Programação II\Pasta de Exercícios\Exercicios\Exercicio 4\obj\Debug\net8.0\Exercicio 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\3 Semestre\Técnicas De Programação II\Pasta de Exercícios\Exercicios\Exercicio 4\obj\Debug\net8.0\Exercicio 4.AssemblyInfoInputs.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Pasta de Exercícios\Exercicios\Exercicio 4\obj\Debug\net8.0\Exercicio 4.AssemblyInfo.cs
+D:\Fatec\3 Semestre\Técnicas De Programação II\Pasta de Exercícios\Exercicios\Exercicio 4\obj\Debug\net8.0\Exercicio 4.csproj.CoreCompileInputs.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Pasta de Exercícios\Exercicios\Exercicio 4\obj\Debug\net8.0\Exercicio 4.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Pasta de Exercícios\Exercicios\Exercicio 4\obj\Debug\net8.0\refint\Exercicio 4.dll
+D:\Fatec\3 Semestre\Técnicas De Programação II\Pasta de Exercícios\Exercicios\Exercicio 4\obj\Debug\net8.0\Exercicio 4.pdb
+D:\Fatec\3 Semestre\Técnicas De Programação II\Pasta de Exercícios\Exercicios\Exercicio 4\obj\Debug\net8.0\Exercicio 4.genruntimeconfig.cache
+D:\Fatec\3 Semestre\Técnicas De Programação II\Pasta de Exercícios\Exercicios\Exercicio 4\obj\Debug\net8.0\ref\Exercicio 4.dll

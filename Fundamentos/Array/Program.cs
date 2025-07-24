@@ -2,24 +2,29 @@
 
 Exibir(nomes);
 
+Console.WriteLine();
 Array.Reverse(nomes);
-Console.WriteLine("\nExibir Invertido: ");
+
 Exibir(nomes);
 
+Console.WriteLine();
 Array.Sort(nomes);
-Console.WriteLine("\nExibir em ordem alfabética: ");
+
 Exibir(nomes);
 
+Console.WriteLine();
 var indice = Array.BinarySearch(nomes, "Maria");
-Console.WriteLine("\nEncontrar um índice no array: ");
 Console.WriteLine(indice);
+
+
+
+
 
 void Exibir(string[] nomes)
 {
-    foreach (var nome in nomes)
+    foreach (string nome in nomes)
     {
         Console.WriteLine(nome);
     }
 }
-
 

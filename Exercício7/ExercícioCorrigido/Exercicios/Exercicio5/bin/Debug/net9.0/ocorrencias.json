@@ -1,0 +1,26 @@
+[
+  {
+    "Tipo": "Inc\u00EAndio",
+    "Local": "Bloco A",
+    "Data": "2025-06-21T22:52:00.6192351-03:00",
+    "Urgente": true
+  },
+  {
+    "Tipo": "Vazamento",
+    "Local": "Bloco C",
+    "Data": "2025-06-21T22:52:00.6448606-03:00",
+    "Urgente": false
+  },
+  {
+    "Tipo": "Briga",
+    "Local": "Garagem",
+    "Data": "2025-06-21T22:52:00.6453041-03:00",
+    "Urgente": true
+  },
+  {
+    "Tipo": "Queda de energia",
+    "Local": "Bloco B",
+    "Data": "2025-06-21T22:52:00.6457031-03:00",
+    "Urgente": false
+  }
+]

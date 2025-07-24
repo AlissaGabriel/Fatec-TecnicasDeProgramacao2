@@ -1,17 +1,11 @@
-﻿Console.WriteLine("\nFundamentos"); //escreve e pula para outra linha
+﻿using System.Runtime.InteropServices;
 
+Console.WriteLine("Fundamentos");
 int varInt = 22;
-float varFloat = 22.1f;
+float varFloat = 10.2f;
 double varDouble = 15.23;
-decimal varDecimal = 22.2m;
-bool varBool = false;
+decimal varDecimal = 20.99m;
 
-Console.WriteLine("Concatenação: ");
-Console.WriteLine("Valor Inteiro: " + varInt + "\nValor Float: " + varFloat + "\nValor Double: " + varDouble + "\nValor Decimal: " + varDecimal + "\nValor Bool: " + varBool); //concatenação
-Console.WriteLine("\nInterpolação: ");
-Console.WriteLine($"Valor Inteiro : {varInt}\nValor Float: {varFloat}\nValor Double: {varDouble}\nValor Decimal: {varDecimal}\nValor Bool: {varBool}"); //interpolação
-
-//Console.ReadKey(); //esperar clicar em alguma tecla para pular para a próxima linha
-//Console.ReadLine();  //lê a entrada do usuário
-
-
+Console.WriteLine("valor inteiro:" + varInt + "\nValor float:" + varFloat);
+Console.WriteLine($"valor double:{varDouble}\nvalor decimal:{varDecimal}");
+Console.ReadKey();

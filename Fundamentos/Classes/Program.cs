@@ -1,59 +1,45 @@
-﻿//classe que pode ser utilizada somente dentro do projeto (internal)
-//classe que pode ser utilizada fora do projeto (public)
-//void = sem retorno
-//sem referência = faz uma cópia e não muda o valor
-//com referência = modifica a variável
-
-int x = 10;
+﻿var x = 10;
 int y = 20;
 
-int w = 30;
 int z = 20;
-
+int w = 30;
 //var conta = new Matematica();
 //Matematica conta = new Matematica();
-Matematica conta = new ();
+Matematica conta = new();
 
-Console.WriteLine($"valor de x: {x}\nvalor de y: {y}\n");
-conta.soma(x, y);
+conta.soma(y, x);
+conta.subtracao(ref z, ref w);
 
-Console.WriteLine($"valor de w: {w}\nvalor de z: {z}\n");
-conta.subtracao(ref w, ref z);
+Console.WriteLine($"valor de z: {z}\nvalor de w:{w}");
+Console.WriteLine($"valor de x: {x}\nvalor de y:{y}");
 
-Console.WriteLine($"valor de w com ref: {w}\nvalor de z com ref: {z}\n");
-
-Console.WriteLine("Nova subtração com os novos valores: ");
-conta.subtracao(ref w, ref z);
-
-public class Matematica 
+public class Matematica
 {
-    //métodos
-    public void soma(int numero1, int numero2)
+    public void soma(int num1, int num2)
     {
-        Console.WriteLine($"Soma = {numero1 + numero2}\n");
-        numero1 = 100;
-        numero2 = 50;
+        Console.WriteLine($"soma = {num1 + num2}");
+        num1 = 50;
+        num2 = 100;
     }
 
-    public void soma(int numero1, int numero2, int numero3)
+    public void soma(int num1, int num2, int num3)
     {
-        Console.WriteLine($"soma = {numero1 + numero2 + numero3}");
+        Console.WriteLine($"soma = {num1 + num2 + num3}");
+    }
+    public void soma(double num1, int num2)
+    {
+        Console.WriteLine($"soma = {num1 + num2}");
+    }
+    public void soma(int num1, double num2)
+    {
+        Console.WriteLine($"soma = {num1 + num2}");
     }
 
-    public void soma(double numero1, int numero2)
+    public void subtracao(ref int num1, ref int num2)
     {
-        Console.WriteLine($"soma = {numero1 + numero2}");
-    }
-
-    public void soma(int numero1, double numero2)
-    {
-        Console.WriteLine($"soma = {numero1 + numero2}");
-    }
-
-    public void subtracao(ref int numero1, ref int numero2)
-    {
-       Console.WriteLine($"Subtração = {numero1 - numero2}\n");
-        numero1 = 100;
-        numero2 = 50;
+        Console.WriteLine($"subtracao = {num1 - num2}");
+        num1 = 50;
+        num2 = 100;
     }
 }
+

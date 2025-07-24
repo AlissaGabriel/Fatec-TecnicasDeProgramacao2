@@ -1,0 +1,8 @@
+Tipo: Fogo, Local: Apartamento 101, Data: 18/06/2025 20:03:06, Urgente: True
+
+Tipo: Alagamento, Local: Garagem, Data: 18/06/2025 20:03:06, Urgente: False
+
+Tipo: Quebra de Porta, Local: Entrada Principal, Data: 18/06/2025 20:03:06, Urgente: True
+
+Tipo: Quebra de Vidro, Local: Varanda, Data: 18/06/2025 20:03:06, Urgente: False
+

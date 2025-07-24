@@ -1,0 +1,28 @@
+C:\Users\0201392411027\Desktop\Linq\ExemplosLinq\bin\Debug\net8.0\ExemplosLinq.exe
+C:\Users\0201392411027\Desktop\Linq\ExemplosLinq\bin\Debug\net8.0\ExemplosLinq.deps.json
+C:\Users\0201392411027\Desktop\Linq\ExemplosLinq\bin\Debug\net8.0\ExemplosLinq.runtimeconfig.json
+C:\Users\0201392411027\Desktop\Linq\ExemplosLinq\bin\Debug\net8.0\ExemplosLinq.dll
+C:\Users\0201392411027\Desktop\Linq\ExemplosLinq\bin\Debug\net8.0\ExemplosLinq.pdb
+C:\Users\0201392411027\Desktop\Linq\ExemplosLinq\obj\Debug\net8.0\ExemplosLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392411027\Desktop\Linq\ExemplosLinq\obj\Debug\net8.0\ExemplosLinq.AssemblyInfoInputs.cache
+C:\Users\0201392411027\Desktop\Linq\ExemplosLinq\obj\Debug\net8.0\ExemplosLinq.AssemblyInfo.cs
+C:\Users\0201392411027\Desktop\Linq\ExemplosLinq\obj\Debug\net8.0\ExemplosLinq.csproj.CoreCompileInputs.cache
+C:\Users\0201392411027\Desktop\Linq\ExemplosLinq\obj\Debug\net8.0\ExemplosLinq.dll
+C:\Users\0201392411027\Desktop\Linq\ExemplosLinq\obj\Debug\net8.0\refint\ExemplosLinq.dll
+C:\Users\0201392411027\Desktop\Linq\ExemplosLinq\obj\Debug\net8.0\ExemplosLinq.pdb
+C:\Users\0201392411027\Desktop\Linq\ExemplosLinq\obj\Debug\net8.0\ExemplosLinq.genruntimeconfig.cache
+C:\Users\0201392411027\Desktop\Linq\ExemplosLinq\obj\Debug\net8.0\ref\ExemplosLinq.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\Linq\ExemplosLinq\bin\Debug\net8.0\ExemplosLinq.exe
+D:\Fatec\3 Semestre\Técnicas de Programação II\Linq\ExemplosLinq\bin\Debug\net8.0\ExemplosLinq.deps.json
+D:\Fatec\3 Semestre\Técnicas de Programação II\Linq\ExemplosLinq\bin\Debug\net8.0\ExemplosLinq.runtimeconfig.json
+D:\Fatec\3 Semestre\Técnicas de Programação II\Linq\ExemplosLinq\bin\Debug\net8.0\ExemplosLinq.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\Linq\ExemplosLinq\bin\Debug\net8.0\ExemplosLinq.pdb
+D:\Fatec\3 Semestre\Técnicas de Programação II\Linq\ExemplosLinq\obj\Debug\net8.0\ExemplosLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\3 Semestre\Técnicas de Programação II\Linq\ExemplosLinq\obj\Debug\net8.0\ExemplosLinq.AssemblyInfoInputs.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\Linq\ExemplosLinq\obj\Debug\net8.0\ExemplosLinq.AssemblyInfo.cs
+D:\Fatec\3 Semestre\Técnicas de Programação II\Linq\ExemplosLinq\obj\Debug\net8.0\ExemplosLinq.csproj.CoreCompileInputs.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\Linq\ExemplosLinq\obj\Debug\net8.0\ExemplosLinq.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\Linq\ExemplosLinq\obj\Debug\net8.0\refint\ExemplosLinq.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\Linq\ExemplosLinq\obj\Debug\net8.0\ExemplosLinq.pdb
+D:\Fatec\3 Semestre\Técnicas de Programação II\Linq\ExemplosLinq\obj\Debug\net8.0\ExemplosLinq.genruntimeconfig.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\Linq\ExemplosLinq\obj\Debug\net8.0\ref\ExemplosLinq.dll

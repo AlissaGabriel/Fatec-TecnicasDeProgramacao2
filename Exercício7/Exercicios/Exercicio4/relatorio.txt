@@ -1,0 +1,8 @@
+Produto: Computador, Categoria: Eletrônicos, Preço: R$ 1.999,99, Data de Cadastro: 18/06/2025 19:34:43
+
+Produto: Mesa, Categoria: Móveis, Preço: R$ 150,00, Data de Cadastro: 18/06/2025 19:34:43
+
+Produto: Mouse, Categoria: Eletrônicos, Preço: R$ 49,99, Data de Cadastro: 18/06/2025 19:34:43
+
+Produto: Camisa, Categoria: Roupas, Preço: R$ 75,50, Data de Cadastro: 18/06/2025 19:34:43
+

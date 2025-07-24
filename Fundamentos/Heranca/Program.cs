@@ -1,29 +1,23 @@
-﻿
-
-Gato gato = new Gato("Timtim");
-Console.WriteLine($"Nome do gato é: {gato.getNome()}");
+﻿Gato gato = new Gato("Mio");
+Console.WriteLine($"Nome do gato é {gato.getNome()}");
 gato.SomGato();
 
 public class Animal
 {
-    //construtor
     public Animal(string nome)
     {
         Nome = nome;
     }
-
-    //protegido não consegue acessar fora da classe filha
     protected string? Nome { get; set; }
 }
-
-public class Gato : Animal
+public class Gato:Animal
 {
     public Gato(string nome):base(nome){}
 
     public void SomGato()
     {
-        Console.WriteLine("Miauuuu");
-    }   
+        Console.WriteLine("Miauuuuuu");
+    }
 
     public string getNome()
     {
@@ -37,6 +31,6 @@ public class Cachorro : Animal
 
     public void SomCachorro()
     {
-        Console.WriteLine("au au au au");
+        Console.WriteLine("au au au au au");
     }
 }

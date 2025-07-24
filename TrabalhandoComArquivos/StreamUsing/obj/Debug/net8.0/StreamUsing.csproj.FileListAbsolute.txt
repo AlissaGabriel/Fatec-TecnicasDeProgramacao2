@@ -1,0 +1,14 @@
+D:\Fatec\3 Semestre\Técnicas de Programação II\TrabalhandoComArquivos\StreamUsing\bin\Debug\net8.0\StreamUsing.exe
+D:\Fatec\3 Semestre\Técnicas de Programação II\TrabalhandoComArquivos\StreamUsing\bin\Debug\net8.0\StreamUsing.deps.json
+D:\Fatec\3 Semestre\Técnicas de Programação II\TrabalhandoComArquivos\StreamUsing\bin\Debug\net8.0\StreamUsing.runtimeconfig.json
+D:\Fatec\3 Semestre\Técnicas de Programação II\TrabalhandoComArquivos\StreamUsing\bin\Debug\net8.0\StreamUsing.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\TrabalhandoComArquivos\StreamUsing\bin\Debug\net8.0\StreamUsing.pdb
+D:\Fatec\3 Semestre\Técnicas de Programação II\TrabalhandoComArquivos\StreamUsing\obj\Debug\net8.0\StreamUsing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\3 Semestre\Técnicas de Programação II\TrabalhandoComArquivos\StreamUsing\obj\Debug\net8.0\StreamUsing.AssemblyInfoInputs.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\TrabalhandoComArquivos\StreamUsing\obj\Debug\net8.0\StreamUsing.AssemblyInfo.cs
+D:\Fatec\3 Semestre\Técnicas de Programação II\TrabalhandoComArquivos\StreamUsing\obj\Debug\net8.0\StreamUsing.csproj.CoreCompileInputs.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\TrabalhandoComArquivos\StreamUsing\obj\Debug\net8.0\StreamUsing.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\TrabalhandoComArquivos\StreamUsing\obj\Debug\net8.0\refint\StreamUsing.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\TrabalhandoComArquivos\StreamUsing\obj\Debug\net8.0\StreamUsing.pdb
+D:\Fatec\3 Semestre\Técnicas de Programação II\TrabalhandoComArquivos\StreamUsing\obj\Debug\net8.0\StreamUsing.genruntimeconfig.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\TrabalhandoComArquivos\StreamUsing\obj\Debug\net8.0\ref\StreamUsing.dll

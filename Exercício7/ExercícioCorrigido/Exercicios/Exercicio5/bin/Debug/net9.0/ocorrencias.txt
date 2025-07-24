@@ -1,0 +1,8 @@
+[21/06/2025 22:51:24] Incêndio em Bloco A. Urgente: True
+[21/06/2025 22:51:24] Vazamento em Bloco C. Urgente: False
+[21/06/2025 22:51:24] Briga em Garagem. Urgente: True
+[21/06/2025 22:51:24] Queda de energia em Bloco B. Urgente: False
+[21/06/2025 22:52:00] Incêndio em Bloco A. Urgente: True
+[21/06/2025 22:52:00] Vazamento em Bloco C. Urgente: False
+[21/06/2025 22:52:00] Briga em Garagem. Urgente: True
+[21/06/2025 22:52:00] Queda de energia em Bloco B. Urgente: False

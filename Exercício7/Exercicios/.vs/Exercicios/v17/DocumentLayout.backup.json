@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alissa\\Desktop\\Exercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E96A43F7-C361-4127-A895-41E724508799}|Exercicio5\\Exercicio5.csproj|c:\\users\\alissa\\desktop\\exercicios\\exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96A43F7-C361-4127-A895-41E724508799}|Exercicio5\\Exercicio5.csproj|solutionrelative:exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE92FB4F-B3CF-4C2C-9B84-E2D6933569EA}|Exercicio4\\Exercicio4.csproj|c:\\users\\alissa\\desktop\\exercicios\\exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE92FB4F-B3CF-4C2C-9B84-E2D6933569EA}|Exercicio4\\Exercicio4.csproj|solutionrelative:exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alissa\\Desktop\\Exercicios\\Exercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\Alissa\\Desktop\\Exercicios\\Exercicio4\\Program.cs",
+              "RelativeToolTip": "Exercicio4\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAkwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:43:00.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alissa\\Desktop\\Exercicios\\Exercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\Alissa\\Desktop\\Exercicios\\Exercicio5\\Program.cs",
+              "RelativeToolTip": "Exercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:36:16.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoXML\bin\Debug\net8.0\SerializacaoNoXML.exe
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoXML\bin\Debug\net8.0\SerializacaoNoXML.deps.json
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoXML\bin\Debug\net8.0\SerializacaoNoXML.runtimeconfig.json
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoXML\bin\Debug\net8.0\SerializacaoNoXML.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoXML\bin\Debug\net8.0\SerializacaoNoXML.pdb
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoXML\obj\Debug\net8.0\SerializacaoNoXML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoXML\obj\Debug\net8.0\SerializacaoNoXML.AssemblyInfoInputs.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoXML\obj\Debug\net8.0\SerializacaoNoXML.AssemblyInfo.cs
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoXML\obj\Debug\net8.0\SerializacaoNoXML.csproj.CoreCompileInputs.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoXML\obj\Debug\net8.0\SerializacaoNoXML.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoXML\obj\Debug\net8.0\refint\SerializacaoNoXML.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoXML\obj\Debug\net8.0\SerializacaoNoXML.pdb
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoXML\obj\Debug\net8.0\SerializacaoNoXML.genruntimeconfig.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoXML\obj\Debug\net8.0\ref\SerializacaoNoXML.dll

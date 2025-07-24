@@ -1,0 +1,14 @@
+D:\Fatec\3 Semestre\Técnicas de Programação II\Correcao_Exercicios_Linq\Correcao_Exercicios_Linq\bin\Debug\net8.0\Correcao_Exercicios_Linq.exe
+D:\Fatec\3 Semestre\Técnicas de Programação II\Correcao_Exercicios_Linq\Correcao_Exercicios_Linq\bin\Debug\net8.0\Correcao_Exercicios_Linq.deps.json
+D:\Fatec\3 Semestre\Técnicas de Programação II\Correcao_Exercicios_Linq\Correcao_Exercicios_Linq\bin\Debug\net8.0\Correcao_Exercicios_Linq.runtimeconfig.json
+D:\Fatec\3 Semestre\Técnicas de Programação II\Correcao_Exercicios_Linq\Correcao_Exercicios_Linq\bin\Debug\net8.0\Correcao_Exercicios_Linq.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\Correcao_Exercicios_Linq\Correcao_Exercicios_Linq\bin\Debug\net8.0\Correcao_Exercicios_Linq.pdb
+D:\Fatec\3 Semestre\Técnicas de Programação II\Correcao_Exercicios_Linq\Correcao_Exercicios_Linq\obj\Debug\net8.0\Correcao_Exercicios_Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\3 Semestre\Técnicas de Programação II\Correcao_Exercicios_Linq\Correcao_Exercicios_Linq\obj\Debug\net8.0\Correcao_Exercicios_Linq.AssemblyInfoInputs.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\Correcao_Exercicios_Linq\Correcao_Exercicios_Linq\obj\Debug\net8.0\Correcao_Exercicios_Linq.AssemblyInfo.cs
+D:\Fatec\3 Semestre\Técnicas de Programação II\Correcao_Exercicios_Linq\Correcao_Exercicios_Linq\obj\Debug\net8.0\Correcao_Exercicios_Linq.csproj.CoreCompileInputs.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\Correcao_Exercicios_Linq\Correcao_Exercicios_Linq\obj\Debug\net8.0\Correcao_Exercicios_Linq.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\Correcao_Exercicios_Linq\Correcao_Exercicios_Linq\obj\Debug\net8.0\refint\Correcao_Exercicios_Linq.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\Correcao_Exercicios_Linq\Correcao_Exercicios_Linq\obj\Debug\net8.0\Correcao_Exercicios_Linq.pdb
+D:\Fatec\3 Semestre\Técnicas de Programação II\Correcao_Exercicios_Linq\Correcao_Exercicios_Linq\obj\Debug\net8.0\Correcao_Exercicios_Linq.genruntimeconfig.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\Correcao_Exercicios_Linq\Correcao_Exercicios_Linq\obj\Debug\net8.0\ref\Correcao_Exercicios_Linq.dll

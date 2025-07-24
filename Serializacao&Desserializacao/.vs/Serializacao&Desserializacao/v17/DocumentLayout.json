@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas de Programa\u00E7\u00E3o II\\Serializacao\u0026Desserializacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B480A16-E010-41A9-9D97-62484950FC4C}|SerializacaoXMLemArquivo\\SerializacaoXMLemArquivo.csproj|d:\\fatec\\3 semestre\\t\u00E9cnicas de programa\u00E7\u00E3o ii\\serializacao\u0026desserializacao\\serializacaoxmlemarquivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B480A16-E010-41A9-9D97-62484950FC4C}|SerializacaoXMLemArquivo\\SerializacaoXMLemArquivo.csproj|solutionrelative:serializacaoxmlemarquivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2B89F3-89D2-456B-B2BC-F90D53BEA9C2}|SerializacaoNoXML\\SerializacaoNoXML.csproj|d:\\fatec\\3 semestre\\t\u00E9cnicas de programa\u00E7\u00E3o ii\\serializacao\u0026desserializacao\\serializacaonoxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2B89F3-89D2-456B-B2BC-F90D53BEA9C2}|SerializacaoNoXML\\SerializacaoNoXML.csproj|solutionrelative:serializacaonoxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4472BF-9E4C-4F21-9F74-F62E127EECDD}|SerializacaoNoJson\\SerializacaoNoJson.csproj|d:\\fatec\\3 semestre\\t\u00E9cnicas de programa\u00E7\u00E3o ii\\serializacao\u0026desserializacao\\serializacaonojson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4472BF-9E4C-4F21-9F74-F62E127EECDD}|SerializacaoNoJson\\SerializacaoNoJson.csproj|solutionrelative:serializacaonojson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas de Programa\u00E7\u00E3o II\\Serializacao\u0026Desserializacao\\SerializacaoNoJson\\Program.cs",
+              "RelativeDocumentMoniker": "SerializacaoNoJson\\Program.cs",
+              "ToolTip": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas de Programa\u00E7\u00E3o II\\Serializacao\u0026Desserializacao\\SerializacaoNoJson\\Program.cs",
+              "RelativeToolTip": "SerializacaoNoJson\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:48:15.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas de Programa\u00E7\u00E3o II\\Serializacao\u0026Desserializacao\\SerializacaoNoXML\\Program.cs",
+              "RelativeDocumentMoniker": "SerializacaoNoXML\\Program.cs",
+              "ToolTip": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas de Programa\u00E7\u00E3o II\\Serializacao\u0026Desserializacao\\SerializacaoNoXML\\Program.cs",
+              "RelativeToolTip": "SerializacaoNoXML\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:47:37.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas de Programa\u00E7\u00E3o II\\Serializacao\u0026Desserializacao\\SerializacaoXMLemArquivo\\Program.cs",
+              "RelativeDocumentMoniker": "SerializacaoXMLemArquivo\\Program.cs",
+              "ToolTip": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas de Programa\u00E7\u00E3o II\\Serializacao\u0026Desserializacao\\SerializacaoXMLemArquivo\\Program.cs*",
+              "RelativeToolTip": "SerializacaoXMLemArquivo\\Program.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvyIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:58:41.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

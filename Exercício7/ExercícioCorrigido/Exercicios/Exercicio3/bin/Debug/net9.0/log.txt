@@ -1,0 +1,8 @@
+[21/06/2025 21:35:18] Novo usuário: Ana, cadastrado em 21/06/2025 21:35:18
+[21/06/2025 21:35:18] Novo usuário: Bruno, cadastrado em 21/06/2025 21:35:18
+[21/06/2025 21:35:18] Novo usuário: Carla, cadastrado em 21/06/2025 21:35:18
+[21/06/2025 21:35:18] Novo usuário: Daniel, cadastrado em 21/06/2025 21:35:18
+[21/06/2025 21:53:25] Novo usuário: Ana, cadastrado em 21/06/2025 21:53:25
+[21/06/2025 21:53:25] Novo usuário: Bruno, cadastrado em 21/06/2025 21:53:25
+[21/06/2025 21:53:25] Novo usuário: Carla, cadastrado em 21/06/2025 21:53:25
+[21/06/2025 21:53:25] Novo usuário: Daniel, cadastrado em 21/06/2025 21:53:25

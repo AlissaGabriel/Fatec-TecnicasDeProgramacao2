@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas de Programa\u00E7\u00E3o II\\Serializacao\u0026Desserializacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B480A16-E010-41A9-9D97-62484950FC4C}|SerializacaoXMLemArquivo\\SerializacaoXMLemArquivo.csproj|d:\\fatec\\3 semestre\\t\u00E9cnicas de programa\u00E7\u00E3o ii\\serializacao\u0026desserializacao\\serializacaoxmlemarquivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B480A16-E010-41A9-9D97-62484950FC4C}|SerializacaoXMLemArquivo\\SerializacaoXMLemArquivo.csproj|solutionrelative:serializacaoxmlemarquivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas de Programa\u00E7\u00E3o II\\Serializacao\u0026Desserializacao\\SerializacaoXMLemArquivo\\Program.cs",
+              "RelativeDocumentMoniker": "SerializacaoXMLemArquivo\\Program.cs",
+              "ToolTip": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas de Programa\u00E7\u00E3o II\\Serializacao\u0026Desserializacao\\SerializacaoXMLemArquivo\\Program.cs",
+              "RelativeToolTip": "SerializacaoXMLemArquivo\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:58:41.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

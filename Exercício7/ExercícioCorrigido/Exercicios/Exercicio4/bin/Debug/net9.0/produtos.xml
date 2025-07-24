@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Produto>
+    <Nome>Teclado</Nome>
+    <Categoria>Periféricos</Categoria>
+    <Preco>120</Preco>
+    <DataCadastro>2025-06-21T22:32:58.7035596-03:00</DataCadastro>
+  </Produto>
+  <Produto>
+    <Nome>Monitor</Nome>
+    <Categoria>Periféricos</Categoria>
+    <Preco>800</Preco>
+    <DataCadastro>2025-06-21T22:32:58.7388353-03:00</DataCadastro>
+  </Produto>
+  <Produto>
+    <Nome>Cadeira Gamer</Nome>
+    <Categoria>Móveis</Categoria>
+    <Preco>950</Preco>
+    <DataCadastro>2025-06-21T22:32:58.7396349-03:00</DataCadastro>
+  </Produto>
+  <Produto>
+    <Nome>Mouse</Nome>
+    <Categoria>Periféricos</Categoria>
+    <Preco>70</Preco>
+    <DataCadastro>2025-06-21T22:32:58.739967-03:00</DataCadastro>
+  </Produto>
+</ArrayOfProduto>

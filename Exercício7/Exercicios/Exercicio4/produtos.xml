@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Produto>
+    <Nome>Computador</Nome>
+    <Categoria>Eletrônicos</Categoria>
+    <Preco>1999.99</Preco>
+    <DataCadastro>2025-06-18T19:34:43.6929739-03:00</DataCadastro>
+  </Produto>
+  <Produto>
+    <Nome>Mesa</Nome>
+    <Categoria>Móveis</Categoria>
+    <Preco>150.00</Preco>
+    <DataCadastro>2025-06-18T19:34:43.7475136-03:00</DataCadastro>
+  </Produto>
+  <Produto>
+    <Nome>Mouse</Nome>
+    <Categoria>Eletrônicos</Categoria>
+    <Preco>49.99</Preco>
+    <DataCadastro>2025-06-18T19:34:43.7487168-03:00</DataCadastro>
+  </Produto>
+  <Produto>
+    <Nome>Camisa</Nome>
+    <Categoria>Roupas</Categoria>
+    <Preco>75.50</Preco>
+    <DataCadastro>2025-06-18T19:34:43.7493486-03:00</DataCadastro>
+  </Produto>
+</ArrayOfProduto>

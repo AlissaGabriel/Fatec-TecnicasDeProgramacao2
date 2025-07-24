@@ -1,0 +1,12 @@
+[21/06/2025 21:58:09] Produto: Teclado, R$120, Categoria: Periféricos
+[21/06/2025 21:58:09] Produto: Monitor, R$800, Categoria: Periféricos
+[21/06/2025 21:58:09] Produto: Cadeira Gamer, R$950, Categoria: Móveis
+[21/06/2025 21:58:09] Produto: Mouse, R$70, Categoria: Periféricos
+[21/06/2025 22:31:21] Produto: Teclado, R$120, Categoria: Periféricos
+[21/06/2025 22:31:21] Produto: Monitor, R$800, Categoria: Periféricos
+[21/06/2025 22:31:21] Produto: Cadeira Gamer, R$950, Categoria: Móveis
+[21/06/2025 22:31:21] Produto: Mouse, R$70, Categoria: Periféricos
+[21/06/2025 22:32:58] Produto: Teclado, R$120, Categoria: Periféricos
+[21/06/2025 22:32:58] Produto: Monitor, R$800, Categoria: Periféricos
+[21/06/2025 22:32:58] Produto: Cadeira Gamer, R$950, Categoria: Móveis
+[21/06/2025 22:32:58] Produto: Mouse, R$70, Categoria: Periféricos

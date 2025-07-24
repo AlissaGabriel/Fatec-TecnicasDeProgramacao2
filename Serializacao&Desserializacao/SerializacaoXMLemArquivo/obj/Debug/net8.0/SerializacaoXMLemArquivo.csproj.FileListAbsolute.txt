@@ -1,0 +1,14 @@
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoXMLemArquivo\bin\Debug\net8.0\SerializacaoXMLemArquivo.exe
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoXMLemArquivo\bin\Debug\net8.0\SerializacaoXMLemArquivo.deps.json
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoXMLemArquivo\bin\Debug\net8.0\SerializacaoXMLemArquivo.runtimeconfig.json
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoXMLemArquivo\bin\Debug\net8.0\SerializacaoXMLemArquivo.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoXMLemArquivo\bin\Debug\net8.0\SerializacaoXMLemArquivo.pdb
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoXMLemArquivo\obj\Debug\net8.0\SerializacaoXMLemArquivo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoXMLemArquivo\obj\Debug\net8.0\SerializacaoXMLemArquivo.AssemblyInfoInputs.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoXMLemArquivo\obj\Debug\net8.0\SerializacaoXMLemArquivo.AssemblyInfo.cs
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoXMLemArquivo\obj\Debug\net8.0\SerializacaoXMLemArquivo.csproj.CoreCompileInputs.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoXMLemArquivo\obj\Debug\net8.0\SerializacaoXMLemArquivo.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoXMLemArquivo\obj\Debug\net8.0\refint\SerializacaoXMLemArquivo.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoXMLemArquivo\obj\Debug\net8.0\SerializacaoXMLemArquivo.pdb
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoXMLemArquivo\obj\Debug\net8.0\SerializacaoXMLemArquivo.genruntimeconfig.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoXMLemArquivo\obj\Debug\net8.0\ref\SerializacaoXMLemArquivo.dll

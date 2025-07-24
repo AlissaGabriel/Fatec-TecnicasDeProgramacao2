@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas De Programa\u00E7\u00E3o II\\Fundamentos\\",
+  "WorkspaceRootPath": "C:\\FATEC\\Fundamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEC67180-38BB-42A7-BAF5-59405DA41C5B}|ThrowException\\ThrowException.csproj|d:\\fatec\\3 semestre\\t\u00E9cnicas de programa\u00E7\u00E3o ii\\fundamentos\\throwexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEC67180-38BB-42A7-BAF5-59405DA41C5B}|ThrowException\\ThrowException.csproj|solutionrelative:throwexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFFDFD1B-FE86-45BD-9FA3-7F3482692934}|Array\\Array.csproj|d:\\fatec\\3 semestre\\t\u00E9cnicas de programa\u00E7\u00E3o ii\\fundamentos\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFFDFD1B-FE86-45BD-9FA3-7F3482692934}|Array\\Array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B666C57-3DCC-4CF1-945B-97E91816F447}|TryCatchFinally\\TryCatchFinally.csproj|d:\\fatec\\3 semestre\\t\u00E9cnicas de programa\u00E7\u00E3o ii\\fundamentos\\trycatchfinally\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B666C57-3DCC-4CF1-945B-97E91816F447}|TryCatchFinally\\TryCatchFinally.csproj|solutionrelative:trycatchfinally\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DD8517B-7939-4FB3-B86F-79C459203B78}|Excecao_personalizada\\Excecao_personalizada.csproj|c:\\fatec\\fundamentos\\excecao_personalizada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD8517B-7939-4FB3-B86F-79C459203B78}|Excecao_personalizada\\Excecao_personalizada.csproj|solutionrelative:excecao_personalizada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas De Programa\u00E7\u00E3o II\\Fundamentos\\ThrowException\\Program.cs",
-              "RelativeDocumentMoniker": "ThrowException\\Program.cs",
-              "ToolTip": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas De Programa\u00E7\u00E3o II\\Fundamentos\\ThrowException\\Program.cs",
-              "RelativeToolTip": "ThrowException\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\FATEC\\Fundamentos\\Excecao_personalizada\\Program.cs",
+              "RelativeDocumentMoniker": "Excecao_personalizada\\Program.cs",
+              "ToolTip": "C:\\FATEC\\Fundamentos\\Excecao_personalizada\\Program.cs",
+              "RelativeToolTip": "Excecao_personalizada\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T13:38:53.521Z",
+              "WhenOpened": "2025-03-17T15:28:42.19Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas De Programa\u00E7\u00E3o II\\Fundamentos\\Array\\Program.cs",
-              "RelativeDocumentMoniker": "Array\\Program.cs",
-              "ToolTip": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas De Programa\u00E7\u00E3o II\\Fundamentos\\Array\\Program.cs",
-              "RelativeToolTip": "Array\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T13:32:14.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas De Programa\u00E7\u00E3o II\\Fundamentos\\TryCatchFinally\\Program.cs",
-              "RelativeDocumentMoniker": "TryCatchFinally\\Program.cs",
-              "ToolTip": "D:\\Fatec\\3 Semestre\\T\u00E9cnicas De Programa\u00E7\u00E3o II\\Fundamentos\\TryCatchFinally\\Program.cs",
-              "RelativeToolTip": "TryCatchFinally\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T13:07:10.274Z"
             }
           ]
         }

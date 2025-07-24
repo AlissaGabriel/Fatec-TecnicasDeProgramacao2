@@ -1,0 +1,14 @@
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoJson\bin\Debug\net8.0\SerializacaoNoJson.exe
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoJson\bin\Debug\net8.0\SerializacaoNoJson.deps.json
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoJson\bin\Debug\net8.0\SerializacaoNoJson.runtimeconfig.json
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoJson\bin\Debug\net8.0\SerializacaoNoJson.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoJson\bin\Debug\net8.0\SerializacaoNoJson.pdb
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoJson\obj\Debug\net8.0\SerializacaoNoJson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoJson\obj\Debug\net8.0\SerializacaoNoJson.AssemblyInfoInputs.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoJson\obj\Debug\net8.0\SerializacaoNoJson.AssemblyInfo.cs
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoJson\obj\Debug\net8.0\SerializacaoNoJson.csproj.CoreCompileInputs.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoJson\obj\Debug\net8.0\SerializacaoNoJson.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoJson\obj\Debug\net8.0\refint\SerializacaoNoJson.dll
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoJson\obj\Debug\net8.0\SerializacaoNoJson.pdb
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoJson\obj\Debug\net8.0\SerializacaoNoJson.genruntimeconfig.cache
+D:\Fatec\3 Semestre\Técnicas de Programação II\Serializacao&Desserializacao\SerializacaoNoJson\obj\Debug\net8.0\ref\SerializacaoNoJson.dll

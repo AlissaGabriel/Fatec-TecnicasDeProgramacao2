@@ -1,0 +1,14 @@
+C:\FATEC\Tecnica_programacao_II\Exercicios\Exercicio5\bin\Debug\net9.0\Exercicio5.exe
+C:\FATEC\Tecnica_programacao_II\Exercicios\Exercicio5\bin\Debug\net9.0\Exercicio5.deps.json
+C:\FATEC\Tecnica_programacao_II\Exercicios\Exercicio5\bin\Debug\net9.0\Exercicio5.runtimeconfig.json
+C:\FATEC\Tecnica_programacao_II\Exercicios\Exercicio5\bin\Debug\net9.0\Exercicio5.dll
+C:\FATEC\Tecnica_programacao_II\Exercicios\Exercicio5\bin\Debug\net9.0\Exercicio5.pdb
+C:\FATEC\Tecnica_programacao_II\Exercicios\Exercicio5\obj\Debug\net9.0\Exercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Tecnica_programacao_II\Exercicios\Exercicio5\obj\Debug\net9.0\Exercicio5.AssemblyInfoInputs.cache
+C:\FATEC\Tecnica_programacao_II\Exercicios\Exercicio5\obj\Debug\net9.0\Exercicio5.AssemblyInfo.cs
+C:\FATEC\Tecnica_programacao_II\Exercicios\Exercicio5\obj\Debug\net9.0\Exercicio5.csproj.CoreCompileInputs.cache
+C:\FATEC\Tecnica_programacao_II\Exercicios\Exercicio5\obj\Debug\net9.0\Exercicio5.dll
+C:\FATEC\Tecnica_programacao_II\Exercicios\Exercicio5\obj\Debug\net9.0\refint\Exercicio5.dll
+C:\FATEC\Tecnica_programacao_II\Exercicios\Exercicio5\obj\Debug\net9.0\Exercicio5.pdb
+C:\FATEC\Tecnica_programacao_II\Exercicios\Exercicio5\obj\Debug\net9.0\Exercicio5.genruntimeconfig.cache
+C:\FATEC\Tecnica_programacao_II\Exercicios\Exercicio5\obj\Debug\net9.0\ref\Exercicio5.dll
